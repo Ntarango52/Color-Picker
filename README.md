@@ -1,2 +1,3 @@
 # Color-Picker
-Phase 2 Prework
+Phase 2 Prework 
+Project 2
